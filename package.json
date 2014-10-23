@@ -1,0 +1,13 @@
+{
+  "name": "rib",
+  "main": "./lib/rib",
+  "version": "0.1.0",
+  "description": "Opens current html document in the default browser",
+  "repository": "https://github.com/atom/rib",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
