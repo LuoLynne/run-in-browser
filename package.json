@@ -1,9 +1,9 @@
 {
-  "name": "rib",
+  "name": "run-in-browser",
   "main": "./lib/rib",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "Opens current html document in the default browser",
-  "repository": "https://github.com/atom/rib",
+  "repository": "https://github.com/michaelwayman/run-in-browser",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
