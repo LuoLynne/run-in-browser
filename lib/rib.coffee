@@ -9,5 +9,5 @@ module.exports =
     editor = atom.workspace.getActivePaneItem()
     file = editor?.buffer.file
     filePath = file?.path
-    if filePath?.endsWith('.html') or filePath.endsWith('.htm')
+    if filePath?.endsWith('.html') or filePath?.endsWith('.htm')
       shell.openExternal("file://"+filePath)
