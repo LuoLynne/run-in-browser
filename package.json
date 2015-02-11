@@ -1,7 +1,7 @@
 {
   "name": "run-in-browser",
   "main": "./lib/rib",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Opens current html document in the default browser",
   "repository": "https://github.com/michaelwayman/run-in-browser",
   "license": "MIT",
